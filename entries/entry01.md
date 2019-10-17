@@ -1,5 +1,6 @@
-# Entry 1
+# Entry 1   Defining The Problem
 
-Text
+  There are many jobs related to the theme of technology and one of them is the job of game design. It may sound specific to most people, but it consists of much more than that. As a result, sometimes if a person decides to go with game design a career they can be a little clueless on which department they want to work for. Although these departments can work together under the career of game design, they can do completely different tasks. Examples of roles within the career can include the composer, lead designer, and animator. Due to the large amount of roles in this industry, it is important to learn about them if someone is interested in working in this industry.
+  There can be many sources that can help to explain the different roles. Some of these sources can start at college majors and go all the way to a famous company. There will be many requirements such as past experience and education level. Depending on these factors the position one will be placed can be influenced along with the salary differences too. Skills that will be gained for me throughout this project will be getting better at informing people information that can be crucial towards working in society. Another skill would be gaining access to background information taht could also help me find a career in the future. Overall, the project is still in the defining state, so more information will be continued to be added on with upcoming posts.
 
 [Home](../README.md)
